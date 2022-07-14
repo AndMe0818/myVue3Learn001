@@ -1,3 +1,7 @@
+# 这是我的vue3学习小项目 begin to learn Vue3
+
+我将会在这个项目中写一些demo去学习和使用vue3，并开始尝试一些新的东西
+
 # Vue 3 + TypeScript + Vite
 
 This template should help get you started developing with Vue 3 and TypeScript in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
